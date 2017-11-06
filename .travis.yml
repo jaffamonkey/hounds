@@ -1,13 +1,3 @@
-
-```
-
-Then try out `node .` for a basic example based on the test fixtures
-
-![hounds-simple](https://cloud.githubusercontent.com/assets/799038/19570264/41277d88-96c7-11e6-9060-83b7590c0cfb.gif)
-
-Unleash them on the latest sites from HackerNews via `node hackerNews
-
-
 language: node_js
 
 node_js:
@@ -18,8 +8,8 @@ before_install:
   - npm --version
 
 before_script:
-  - cd examples
   - npm i
+  - cd examples
   - sleep 5
 
 script:
