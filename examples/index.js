@@ -13,7 +13,7 @@ app.use(express.static(path.join(__dirname, '../test/fixture')))
 app.listen(4441)
 
 const hunt = hounds.release({
-    url: 'http://localhost:4441',
+    url: 'http://asos.com/',
     logTo
 })
 .on('error', err => {

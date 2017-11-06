@@ -31,7 +31,7 @@ describe('hounds', function() {
 
         let logCount = 0
         this.options = {
-            url: 'http://localhost:4441/',
+            url: 'http://asos.com/',
 
             logTo: new Writable({
                 write: (chunk, enc, next) => {
