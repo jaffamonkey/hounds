@@ -8,8 +8,8 @@ before_install:
   - npm --version
 
 before_script:
-  - npm i
   - cd examples
+  - npm i
   - sleep 5
 
 script:
