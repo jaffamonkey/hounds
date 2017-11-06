@@ -1,4 +1,4 @@
-# hounds
+![Build Status](https://travis-ci.org/jaffamonkey/nightmarejs-mocha-smoketest.svg?branch=master)
 
 *Release the hounds* and smoke test any site. Sanity check after a large refactor, or plug into your CI tool of choice.<br />
 ![](https://media.giphy.com/media/TVCqfX7rLyMuY/giphy.gif)
