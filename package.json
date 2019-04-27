@@ -27,7 +27,7 @@
     "url": "https://github.com/justinjmoses/hounds/issues"
   },
   "engines": {
-    "node": ">=4.2.0"
+    "node": ">=10.15.0"
   },
   "homepage": "https://github.com/justinjmoses/hounds#readme",
   "dependencies": {
