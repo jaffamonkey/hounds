@@ -42,7 +42,6 @@ const hunt = hounds.release({
 
 hunt.pipe(hounds.writers.error())
 ```
-
 To show the Electron UI, with devTools open, and keep both alive, use the following options when releasing the hounds:
 
 ```javascript
